@@ -1,6 +1,6 @@
 ---
-title: "YOUR-TITLE"
-date: YYYY-MM-DD
+title: "The-Sad-Things"
+date: 2025-04-08
 ---
 
 Unfortunately, my first post didn't work.
